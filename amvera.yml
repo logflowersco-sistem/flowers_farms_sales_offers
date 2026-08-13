@@ -1,0 +1,6 @@
+meta:
+  environment: python
+  toolchain: pip
+  engine: python3
+run:
+  command: python bot.py
