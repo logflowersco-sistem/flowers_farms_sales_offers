@@ -1,3 +1,4 @@
-streamlit
+aiogram==3.13.1
 openpyxl
 python-docx
+aiohttp
