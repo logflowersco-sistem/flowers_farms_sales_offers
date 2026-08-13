@@ -1,6 +1,9 @@
 meta:
   environment: python
   toolchain: pip
-  engine: python3
+
+build:
+  requirements: requirements.txt
+
 run:
-  command: python bot.py
+  script: bot.py
